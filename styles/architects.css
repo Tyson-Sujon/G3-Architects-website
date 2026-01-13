@@ -91,6 +91,7 @@
   /* ja flex korsi sob column korbo */
   .navbar, .nav-links{
     flex-direction: column;
+    /* view  */
   }
   
 }
