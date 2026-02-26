@@ -265,11 +265,6 @@ main>section{
   .our-features{
     margin-left: 20px;
   }
-  .sponsor-companies{
-    grid-template-columns: repeat(2,1fr);
-
-
-  }
   #experience-badge{
     margin-top: 20px;
     margin-left: 20px;
